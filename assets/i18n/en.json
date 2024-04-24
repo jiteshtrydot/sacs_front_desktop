@@ -1,5 +1,7 @@
 {
     "LOAD": {
+        "EWAY_BILL_WARNING":"Please check Transport ID properly",
+        "DIRECT_INCOMING":"Direct incoming",
         "TARGET_BILL_DATA":"Target Bill Data",
         "FRACTION_AMOUNT":"Fraction Amount",
         "GO_WITH_OLD_RATE":"Go With Old Rate",
