@@ -1,5 +1,7 @@
 {
     "LOAD": {
+        "FROM_BILL_NO":"From Bill No.",
+        "TO_BILL_NO":"To Bill No.",
         "GENERATE_BILL_SUMMARY": "Generate Bill Summary",
         "CALCULATED_TOTAL": "Calculated Total",
         "BILL_SUMMARY_GENERATE": "Bill Summary Generate",
