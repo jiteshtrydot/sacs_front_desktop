@@ -1,5 +1,16 @@
 {
     "LOAD": {
+        "CATEGORY": "Category",
+        "COMPANY_PARTY": "Company Party",
+        "SELF_PARTY": "Self Party",
+        "GRAND_TOTAL": "Grand Total",
+        "PRODUCT_TYPE": "Product Type",
+        "PARTY_ACCOUNT_RATE_REGISTER": "Party Account Rate Register",
+        "OLD_AMOUNT": "Old Amount",
+        "RATE": "Rate",
+        "DETAIL": "Detail",
+        "NEW_PARTY_NAME": "New Party Name",
+        "OLD_PARTY_NAME": "Old Party Name",
         "FROM_BILL_NO":"From Bill No.",
         "TO_BILL_NO":"To Bill No.",
         "GENERATE_BILL_SUMMARY": "Generate Bill Summary",
