@@ -1,5 +1,6 @@
 {
     "LOAD": {
+        "ENTRY": "entry",
         "CATEGORY": "Category",
         "COMPANY_PARTY": "Company Party",
         "SELF_PARTY": "Self Party",
