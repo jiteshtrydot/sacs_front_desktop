@@ -1,6 +1,6 @@
 {
     "LOAD": {
-        "ENTRY": "entry",
+        "TOTAL_BOOKING": "Total Booking",
         "CATEGORY": "Category",
         "COMPANY_PARTY": "Company Party",
         "SELF_PARTY": "Self Party",
