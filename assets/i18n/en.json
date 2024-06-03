@@ -699,6 +699,9 @@
         "SYNC_DATA": "Sync Data"
     },
     "MENU": {
+        "SCAN_PENDING_LIMIT" : "Sacn Pending Limit",
+        "RESET_ID_PASSWORD" : "Reset ID Password",
+        "FRANCHISEE_PERCENTAGE_SETUP" :  "Franchisee Percentage Setup",
         "MANIFAX_OUTGOING_SUMMARY": "Manifax Outgoing Summary",
         "COMPNAY_INFO": "Compnay Info",
         "OTP_SETUP": "Otp Setup",
