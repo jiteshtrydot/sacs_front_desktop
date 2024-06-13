@@ -1,5 +1,8 @@
 {
     "LOAD": {
+        "ACTION_BY": "Action By",
+        "REQUEST_TYPE": "Request Type",
+        "EWAY_CHARGE": "Eway Charge",
         "TOTAL_BOOKING": "Total Booking",
         "CATEGORY": "Category",
         "COMPANY_PARTY": "Company Party",
