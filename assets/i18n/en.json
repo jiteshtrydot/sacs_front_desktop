@@ -1,5 +1,11 @@
 {
     "LOAD": {
+        "ALLOW_REVERSE_MANIFAX": "Allow reverse manifax",
+        "ALLOW_UPDATE_DRS": "Allow update DRS",
+        "SEZ_PARTY": "SEZ Party",
+        "IS_SEZ_PARTY": "Is SEZ party ?",
+        "PARTY_AVAILABLE_BARCODE": "Party Available Barcode",
+        "TOTAL_AVAILABLE_BARCODE": "Total Available Barcode",
         "ACTION_BY": "Action By",
         "REQUEST_TYPE": "Request Type",
         "EWAY_CHARGE": "Eway Charge",
@@ -177,6 +183,10 @@
         "MULTI_BOOKING_SAVE_MSG": "Booking has been saved successfully.",
         "MULTI_BOOKING_ADD_MSG": "Booking has been added in a queue.",
         "ADD_MORE": "Add More",
+        "MARK_AS_PAID": "Mark as Paid",
+        "PAYMENT_SELECTION": "Payment Selection",
+        "PAYMENT_DETAILS": "Payment Details",
+        "REFERENCE": "Reference",
         "PAYMENT_MODE": "Payment Mode",
         "PRINT": "Print",
         "BOOKING_RECEIPT": "Booking Receipt",
