@@ -1,5 +1,9 @@
 {
     "LOAD": {
+        "REASON_MASTER": "Reason Master",
+        "REQUESTED_RATE": "Requested Rate",
+        "INVALID_EWAY_BILL_NUMBER": "Invalid Eway bill, it should 12 digit.",
+        "WHATSAPP_NUMBER": "Whatsapp number",
         "ALLOW_REVERSE_MANIFAX": "Allow reverse manifax",
         "ALLOW_UPDATE_DRS": "Allow update DRS",
         "SEZ_PARTY": "SEZ Party",
@@ -282,6 +286,7 @@
         "NOTE": "Note",
         "REQUEST_UPDATED_MESSAGE": "Request Updated successfully",
         "RECEIVABLE_TYPE": "Receivable Type",
+        "PARTY_APPROVAL_CONFIRMATION": "Party Approval Confirmation",
         "CONFIRMATION_MESSAGE": "Replace Confirmation",
         "PRINT_SETTING": "Print Settings",
         "MANAGE_REQUEST": "Manage Request",
@@ -434,6 +439,7 @@
         "RESET": "Reset",
         "NO_DATA": "No Data Found",
         "NO_IMG": "No Image",
+        "PARTY_APPROVAL_MESSAGE": "Are you sure you want to submit without seeing all the products?",
         "DELETE_MESSAGE": "Are you sure you want to Delete {{field}}",
         "DELETE_CONFIRMATION": "Delete confirmation",
         "CENTER_POLICY": "Center Policy",
