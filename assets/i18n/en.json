@@ -1,5 +1,6 @@
 {
     "LOAD": {
+        "CLICK_HERE": "Click Here",
         "REASON_MASTER": "Reason Master",
         "REQUESTED_RATE": "Requested Rate",
         "INVALID_EWAY_BILL_NUMBER": "Invalid Eway bill, it should 12 digit.",
