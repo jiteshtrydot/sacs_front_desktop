@@ -1,5 +1,9 @@
 {
     "LOAD": {
+        "HEIGHT": "Height",
+        "WIDTH": "Width",
+        "LENGTH": "Length",
+        "VOLUME_WEIGHT": "Volume Weight",
         "CLICK_HERE": "Click Here",
         "REASON_MASTER": "Reason Master",
         "REQUESTED_RATE": "Requested Rate",
