@@ -224,6 +224,8 @@
         "GST_NOTICE_HEADING": "Missconfigure GST Warning!",
         "NEW_PARTY_REQUEST": "New Party Request",
         "OLD_PARTY_DETAIL": "Old Party Detail",
+        "NEW_CENTER_REQUEST": "New Center Request",
+        "OLD_CENTER_DETAIL": "Old Center Detail",
         "TRANSFER": "Transfer",
         "BARCODE_RANGE": "Barcode Range",
         "DOCUMENTS": "Documents",
