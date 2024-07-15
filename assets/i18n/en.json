@@ -1,5 +1,6 @@
 {
     "LOAD": {
+        "TOTAL_VOLUME_WEIGHT": "Total Volume Weight",
         "CENTER_DOCUMENTS": "Center Documents",
         "HEIGHT": "Height",
         "WIDTH": "Width",
