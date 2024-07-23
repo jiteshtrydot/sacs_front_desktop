@@ -1,5 +1,7 @@
 {
     "LOAD": {
+        "PARTIAL_ENTRY_UPDATE_MSG": "Your some of the entry are failed. please correct those entry.",
+        "SECONDARY_ZONE": "Secondary Zone",
         "TOTAL_VOLUME_WEIGHT": "Total Volume Weight",
         "CENTER_DOCUMENTS": "Center Documents",
         "HEIGHT": "Height",
@@ -147,7 +149,7 @@
         "EDIT_OLD_ENTRY": "Edit Old Entry",
         "OPEN_TIME": "Open Time",
         "CLOSE_TIME": "Close Time",
-        "ENTRY_DUPLICATE_WARNING": "Duplicate entry found. and only one entry will be saved. would you like to continue ? ",
+        "ENTRY_DUPLICATE_WARNING": "Duplicate entry found. Please remove the duplicate entry and then submit data again.",
         "CONFIGURE_CGST": "Configure CGST",
         "CONFIGURE_IGST": "Configure IGST",
         "EWAY_BILL_WARNING": "Please check Transport ID properly",
