@@ -1,5 +1,7 @@
 {
     "LOAD": {
+        "NO_OF_PCS_REQUIRED_MSG": "Please fill all the missing barcode detail",
+        "OPEN": "Open",
         "PARTIAL_ENTRY_UPDATE_MSG": "Your some of the entry are failed. please correct those entry.",
         "SECONDARY_ZONE": "Secondary Zone",
         "TOTAL_VOLUME_WEIGHT": "Total Volume Weight",
@@ -114,7 +116,7 @@
         "CASH_RATE_MASTER": "Cash Rate Master",
         "BILL_BOOK_SETUP": "Bill Book Setup",
         "DELIVERY_BOY_MASTER": "Delivery Boy Master",
-        "CENTER_USER_LOGIN": "Cener User Login",
+        "CENTER_USER_LOGIN": "Center User Login",
         "AREA_MASTER": "Area Master",
         "INCOMING_PACKING_SLIP": "Incoming Packing Slip",
         "OUTGOING_PACKING_SLIP": "Outgoing Packing Slip",
@@ -804,7 +806,7 @@
         "HUB_WISE_BILLING_POINT_SETUP": "Hub Wise Billing Point Setup",
         "ACCOUNT_HEAD": "Account Head",
         "MULTI_AGENCY_MASTER": "Multi Agency Master",
-        "CENTER_USER_LOGIN": "Cener User Login",
+        "CENTER_USER_LOGIN": "Center User Login",
         "CO_LOADER": "Co Loader",
         "MASTER": "Master",
         "CENTER_MASTER_SETUP": "Center Master Setup",
