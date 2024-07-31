@@ -2,6 +2,7 @@
     "LOAD": {
         "DRIVER_NAME": "Driver Name",
         "VEHICLE_NUMBER": "Vehicle Number",
+        "DRIVER_NUMBER": "Driver Number",
         "NO_OF_PCS_REQUIRED_MSG": "Please fill all the missing barcode detail",
         "OPEN": "Open",
         "PARTIAL_ENTRY_UPDATE_MSG": "Your some of the entry are failed. please correct those entry.",
