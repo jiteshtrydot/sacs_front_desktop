@@ -1,5 +1,8 @@
 {
     "LOAD": {
+        "AMOUNT_INCLUDING_TAX": "Amount Including Tax",
+        "TAXES": "Taxes",
+        "PRODUCT_NAME": "Product Name",
         "DRIVER_NAME": "Driver Name",
         "VEHICLE_NUMBER": "Vehicle Number",
         "DRIVER_NUMBER": "Driver Number",
@@ -375,6 +378,7 @@
         "BARCODE_EXISTS_IN_MANIFAX": "This Barcode: {{field}} is already exists in Manifax: {{field2}}",
         "TOTAL_DOC": "Total Documents",
         "DELIVERY_BOY": "Delivery Boy",
+        "DELIVERY_MAN": "Delivery Man",
         "DRS_DATE": "DRS Date",
         "DRS_NUMBER": "DRS Number",
         "DRS_GENERATE": "DRS Generate",
@@ -491,6 +495,8 @@
         "MOBILE_REQUIRED": "Mobile *",
         "NAME_REQUIRED": "Name *",
         "PHONE_NO": "Phone No",
+        "PH_NO": "PH No.",
+        "CONSIGNEE_NAME" : "Consignee Name",
         "EMAIL": "Email",
         "REGISTRATION_NUMBERS": "Registration Numbers",
         "PAN_NUMBER": "Pan Number",
@@ -729,6 +735,7 @@
             "REF_PERSON": "Ref. Person",
             "REF_MOBILE": "Ref. Mobile No.",
             "PRODUCT_NAME": "Product Name",
+            "SHORT_NAME": "Short Name",
             "PRODUCT_TYPE": "Product Type",
             "MEDIUM": "Medium",
             "START_DATE": "Start Date",
