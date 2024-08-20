@@ -1,5 +1,7 @@
 {
     "LOAD": {
+        "HUB_TO_HUB": "HUB to HUB",
+        "HUB_TO_CENTER": "HUB to Center",
         "AMOUNT_INCLUDING_TAX": "Amount Including Tax",
         "TAXES": "Taxes",
         "PRODUCT_NAME": "Product Name",
@@ -7,6 +9,8 @@
         "VEHICLE_NUMBER": "Vehicle Number",
         "DRIVER_NUMBER": "Driver Number",
         "NO_OF_PCS_REQUIRED_MSG": "Please fill all the missing barcode detail",
+        "HEADING_DIFFERENT_CENTER_WARNING": "Different Center Warning!",
+        "MESSAGE_DIFFERENT_CENTER_WARNING": "There are several highlighted barcodes in this manifax with different centers. \nAre you sure you want to continue generating the manifax?",
         "OPEN": "Open",
         "PARTIAL_ENTRY_UPDATE_MSG": "Your some of the entry are failed. please correct those entry.",
         "SECONDARY_ZONE": "Secondary Zone",
