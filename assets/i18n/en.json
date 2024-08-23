@@ -1,5 +1,14 @@
 {
     "LOAD": {
+        "CASH_BOOKING_PRINT": "Cash Booking Print",
+        "PARTY_BOOKING_PRINT": "Party Booking Print",
+        "MANIFAX_PRINT": "Manifax Print",
+        "DRS_PRINT": "D.R.S. Print",
+        "PARTY_BILL_PRINT": "Party Bill Print",
+        "PACKING_SLIP": "Packing Slip",
+        "QUOTATION": "Quotation",
+        "DOCUMENT_RETURN_SLIP": "Document Return Slip",
+        "PRINT_SETUP": "Print Setup",
         "HUB_TO_HUB": "HUB to HUB",
         "HUB_TO_CENTER": "HUB to Center",
         "AMOUNT_INCLUDING_TAX": "Amount Including Tax",
@@ -770,6 +779,11 @@
         "SYNC_DATA": "Sync Data"
     },
     "MENU": {
+        "INWARD_OUTWARD":"Inward/Outward",
+        "HOME" : "Home",
+        "DRS":"DRS",
+        "LOAD" : "Load",
+        "ACCOUNT_BILL" : "Account Bill",
         "FRANCHISEE_INVOICE" : "Franchisee Invoice",
         "REASON_MASTER": "Reason Master",
         "DAMAGE_DISTROY_MISS": "Damage/Destroy/Miss",
