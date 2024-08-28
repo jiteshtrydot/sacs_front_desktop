@@ -1,5 +1,16 @@
 {
     "LOAD": {
+        "CURRENT_STATUS": "Current Status",
+        "SCAN_COPY": "Scan Copy",
+        "DELIVERY_PERSON": "Delivery Person",
+        "TIME": "Time",
+        "CONTACT": "Contact",
+        "DRS_DETAILS": "DRS Details",
+        "LAST_CENTER_CONTACT_DETAIL": "Last Center Contact Detail",
+        "MFAX_PKG": "MFAX / PKG.",
+        "DOC_TRACKING_DETAIL": "Document Tracking Detail",
+        "DOC_TRACKING": "Document Status/Tracking",
+        "BOOKING_DETAILS": "Booking Details",
         "CASH_BOOKING_PRINT": "Cash Booking Print",
         "PARTY_BOOKING_PRINT": "Party Booking Print",
         "MANIFAX_PRINT": "Manifax Print",
