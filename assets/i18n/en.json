@@ -1,5 +1,11 @@
 {
     "LOAD": {
+        "AUDIT_WEIGHT": "Audit Weight",
+        "GENERATE_BILL": "Generate Bill",
+        "QR_CODE": "QR Code",
+        "BARCODE": "Barcode",
+        "TOTAL_DOX": "TOTAL DOX",
+        "RETURN_CENTER_NAME": "Return Center Name",
         "CURRENT_STATUS": "Current Status",
         "SCAN_COPY": "Scan Copy",
         "DELIVERY_PERSON": "Delivery Person",
@@ -599,6 +605,7 @@
         "TYPE": "Type",
         "SELECT_HUB": "Select Hub",
         "ADD_NEW": "Add New",
+        "WEIGHT_IN_KG": "Weight (KG)",
         "WEIGHT_IN_GM": "Weight in GM",
         "DOC_TYPE_BOOKING_RATE": "Document Type for Booking Rate",
         "UPDATE": "Update",
