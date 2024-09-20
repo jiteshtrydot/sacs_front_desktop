@@ -1,5 +1,14 @@
 {
     "LOAD": {
+        "CONTAIN": "Contain",
+        "SR_NO": "SR. No.",
+        "DRIVER_NAME_AND_MOBILE_NO": "Driver Name & Mobile No.",
+        "PACKING_SLIP_NO": "Packing Slip No.",
+        "TOTAL_CONSIGNMENT": "Total Consignment",
+        "TOTAL_EWAY_BILL": "Total Eway Bill",
+        "USERNAME": "Username",
+        "EMAIL_TYPE": "Email Type",
+        "EMAIL_SETUP": "Email Setup",
         "ADDITINOAL_RATE" : "Additinoal rate",
         "BRANCH_WISE_SCAN_PENDING_SETUP" : "Branch wise scan pending setup",
         "RO_WISE_SCAN_PENDING_SETUP" : "R.O. wise scan pending setup",
@@ -112,7 +121,7 @@
         "TAXES": "Taxes",
         "PRODUCT_NAME": "Product Name",
         "DRIVER_NAME": "Driver Name",
-        "VEHICLE_NUMBER": "Vehicle Number",
+        "VEHICLE_NUMBER": "Vehicle No.",
         "DRIVER_NUMBER": "Driver Number",
         "NO_OF_PCS_REQUIRED_MSG": "Please fill all the missing barcode detail",
         "HEADING_DIFFERENT_CENTER_WARNING": "Different Center Warning!",
