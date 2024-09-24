@@ -1,5 +1,6 @@
 {
     "LOAD": {
+        "PUBLISH_BILL": "Publish Bill",
         "CONTAIN": "Contain",
         "SR_NO": "SR. No.",
         "DRIVER_NAME_AND_MOBILE_NO": "Driver Name & Mobile No.",
@@ -740,6 +741,7 @@
         }
     },
     "FORM": {
+        "EXCEL_SHEET_DETAIL" : "Excel Sheet Detail",
         "PLACEHOLDER": {
             "EX": "Ex.",
             "HUNDRED_GM": "100 gm",
