@@ -1,5 +1,7 @@
 {
     "LOAD": {
+        "CONTENT": "Content",
+        "CLIENTS": "Clients",
         "SCAN_PENDING_LIMIT": "Scan Pending Limit",
         "SET_SCAN_PENDING_LIMIT": "Set Scan Pending Limit",
         "PARTY_PER_PIECE_RATE_SETUP": "Party Per Piece Rate Setup",
@@ -923,6 +925,7 @@
             "SELECT_BRANCH": "Select Branch"
         },
         "HEADER": {
+            "QUOTAION_CONTENT" :"Quotaion Content",
             "BRANCH_MANAGER_PERMISSIONS_MANAGEMENT": "Branch Manager Permissions Management",
             "ADMIN_PERMISSIONS_MANAGEMENT": "Admin Permissions Management",
             "PRODUCT_WEIGHTS": "Product Weights",
@@ -1069,6 +1072,7 @@
         "SYNC_DATA": "Sync Data"
     },
     "MENU": {
+        "QUOTAION_CONTENT": "Quotaion Content",
         "CENTERS" : "Centers",
         "QUOTATIONS": "Quotations",
         "QUOTATION_MASTER": "Quotation Master",
