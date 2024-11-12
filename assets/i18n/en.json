@@ -1,6 +1,9 @@
 {
     "LOAD": {
+        "APPLY_TO_ALL": "Apply To All",
         "CONTENT": "Content",
+        "REVERSE_MANIFAX_RATES" : "Reverse Manifax Rates",
+        "APPLY_TO_ALL" : "Apply to all",
         "CLIENTS": "Clients",
         "SCAN_PENDING_LIMIT": "Scan Pending Limit",
         "SET_SCAN_PENDING_LIMIT": "Set Scan Pending Limit",
@@ -12,6 +15,7 @@
         "REMOVE_LOCK" : "Remove Lock",
         "PERCENTAGE" : "Percentage",
         "APPLY_LOCK" : "Apply Lock",
+        "APPLY_LIMIT" : "Apply Limit",
         "IS_ALLOWED_RO" : "Is Allowed RO Map",
         "SET_INCOMING_LOCK" : "Set incoming lock",
         "SELECT_RO" : "Select R.O.",
