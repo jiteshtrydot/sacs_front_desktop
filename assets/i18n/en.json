@@ -716,6 +716,7 @@
         "ADDRESS": "Address",
         "COMPANIES": "Companies",
         "SELECT_ZONE": "Select Zone",
+        "SELECT_SECONDARY_ZONE": "Select Secondary Zone",
         "APPLICABLE_REVERSE_HUB": "Applicable Reverse Hub",
         "APPLICABLE_HUB": "Applicable Hub",
         "APPLICABLE_BRANCH": "Applicable Branch",
