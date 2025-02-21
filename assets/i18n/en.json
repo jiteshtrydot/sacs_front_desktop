@@ -1,5 +1,6 @@
 {
     "LOAD": {
+        "IS_REVERSE_WEIGHT": "Is Reverse Weight ?",
         "FLUSH_CONFIRMATION_MESSAGE": "Flush Confirmation",
         "FLUSH_MESSAGE": "Are you sure you want flush all data ?",
         "USER_PROFILE" : "User Profile",
