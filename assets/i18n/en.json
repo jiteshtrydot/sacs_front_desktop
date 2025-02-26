@@ -1,9 +1,22 @@
 {
     "LOAD": {
+        "TRANSFER_BOOKING": "Transfer Booking",
+        "AUDIT_STATUS": "Audit Status",
+        "AUDIT_TYPE": "Audit Type",
+        "REVERSE_MANIFEST_SUMMARY": "Reverse Manifest Summary",
+        "PRINT_SETTINGS": "Print Settings",
+        "COMPANY": "Company",
+        "CENTER_PERMISSIONS": "Center Permissions",
+        "ACCOUNT_BILL_SUMMARY": "Account Bill Summary",
+        "LOAD_IN_OUT_SUMMARY": "Load In/Out Summary",
+        "MULTI_DOCKET_SUMMARY": "MULTI DOCKET SUMMARY",
+        "DIRECT_INCOMING_PACKAGING_SLIP": "Direct Incoming Packing Slip",
+        "CONFIRM_FINAL_RATE": "Confirm Final Rate",
+        "IMPORT_BOOKING": "Import Booking",
         "IS_REVERSE_WEIGHT": "Is Reverse Weight ?",
         "FLUSH_CONFIRMATION_MESSAGE": "Flush Confirmation",
         "FLUSH_MESSAGE": "Are you sure you want flush all data ?",
-        "USER_PROFILE" : "User Profile",
+        "USER_PROFILE": "User Profile",
         "DIRECT_AUDIT": "Direct Audit",
         "INVOICE": "Invoice",
         "SEND": "Send",
@@ -1041,6 +1054,8 @@
             "PINCODE_MASTER": "Pincode Master"
         },
         "LABEL": {
+            "AUDIT_FILTER": "Audit Filter",
+            "AUDIT_TYPE_FILTER": "Audit Type Filter",
             "FROM_DATE": "From Date",
             "TO_DATE": "To Date",
             "GST_FILTER": "GST Filter",
@@ -1167,7 +1182,8 @@
         "SYNC_DATA": "Sync Data"
     },
     "MENU": {
-        "PROFILE":"Profile",
+        "REVERSE_MANIFEST_SUMMARY": "Reverse Manifest Summary",
+        "PROFILE": "Profile",
         "QUOTAION_CONTENT": "Quotaion Content",
         "CENTERS": "Centers",
         "QUOTATIONS": "Quotations",
