@@ -1,5 +1,17 @@
 {
     "LOAD": {
+        "BILL_AMT_UPTO_250000": "Bill Up To Rs. 250000 Amount Only",
+        "BILL_AMT_MORE_THAN_250000": "Bill More Than Rs. 250000 Amount Only",
+        "IGST_APPLIED_BILL": "IGST Applied Bill only",
+        "PARTY_AC_BILL": "Party A/C Bill",
+        "MORE_THAN_200_AMT": "More Than Rs. 200 Amount Only",
+        "IGST_APPIED_BOOKING": "IGST Applied Booking only",
+        "DATA_OF": "Data Of",
+        "GSTR_1": "GSTR-1",
+        "ENTRY_TYPE_SELECTION": "Entry Type Selection",
+        "TAXABLE_VALUE": "Taxable Value",
+        "UTGST": "UTGST",
+        "POS": "POS",
         "INCOMING_RATE_CENTER": "Incoming Rate Center",
         "SET_AS_PRIMARY": "Set as primary account",
         "MONTH" : "Month",
