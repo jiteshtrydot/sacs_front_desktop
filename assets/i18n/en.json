@@ -1,5 +1,6 @@
 {
     "LOAD": {
+        "UPI_ID": "UPI ID",
         "SENDER_RECEIVER" : "Sender / Receiver",
         "CROSSING_CALCULATION" : "Crossing Calculation",
         "GSTR_1_SUMMARY"  : "GSTR-1 Return Register",
