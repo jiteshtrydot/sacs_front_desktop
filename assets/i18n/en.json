@@ -1,5 +1,11 @@
 {
     "LOAD": {
+        "BOOKING_SUMMARY": "BOOKING SUMMARY",
+        "CASH_PAID" : "Cash Paid",
+        "CASH_TAX" : "Cash Tax",
+        "TOTAL_CASH_BOOKING" : "Total Cash Booking",
+        "TOTAL_ACCOUNT_BOOKING" : "Total Account Booking",
+        "ACCOUNT_TAX" : "Account Tax",
         "UPI_ID": "UPI ID",
         "SENDER_RECEIVER" : "Sender / Receiver",
         "CROSSING_CALCULATION" : "Crossing Calculation",
