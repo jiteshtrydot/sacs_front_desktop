@@ -1,5 +1,7 @@
 {
     "LOAD": {
+        "TODAYS_AUDITED_BOOKING": "Today's Audited Booking",
+        "DAILY_COLLECTION": "Daily Collection",
         "BOOKING_SUMMARY": "BOOKING SUMMARY",
         "CASH_PAID" : "Cash Paid",
         "CASH_TAX" : "Cash Tax",
