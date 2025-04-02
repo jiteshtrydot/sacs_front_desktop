@@ -1,5 +1,6 @@
 {
     "LOAD": {
+        "NO_OF_PCS_WEIGHT_ERROR": "Please verify no of pcs weight.",
         "ALLOW_WEIGHT_INC_DEC": "Allow Audit Weight Decreased",
         "TODAYS_AUDITED_BOOKING": "Today's Audited Booking",
         "DAILY_COLLECTION": "Daily Collection",
