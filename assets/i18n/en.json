@@ -1,5 +1,6 @@
 {
     "LOAD": {
+        "TOTAL_AUDITED_AMOUNT": "Total Audited Amount",
         "NO_OF_PCS_WEIGHT_ERROR": "Please verify no of pcs weight.",
         "ALLOW_WEIGHT_INC_DEC": "Allow Audit Weight Decreased",
         "TODAYS_AUDITED_BOOKING": "Today's Audited Booking",
@@ -1380,7 +1381,8 @@
         "MINRANGE": "Number range of the {{field}} is too short.",
         "INVALID_PHOTO": "Invalid photo uploaded.",
         "PATTERN_NOT_MATCH": "Please enter a valid value in {{field}} field.",
-        "CNF_PASSWORD_NOT_MATCHED": "{{field}} is not matching with the {{field2}}."
+        "CNF_PASSWORD_NOT_MATCHED": "{{field}} is not matching with the {{field2}}.",
+        "MAXLENGTH10": "Exact 10 digit required"
     },
     "MESSAGE": {
         "ERROR": "Error",
