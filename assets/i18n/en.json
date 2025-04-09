@@ -311,6 +311,7 @@
         "SR_NO": "SR. No.",
         "DRIVER_NAME_AND_MOBILE_NO": "Driver Name & Mobile No.",
         "PACKING_SLIP_NO": "Packing Slip No.",
+        "PACKING_SLIP_DATE": "Packing Slip Date:",
         "TOTAL_CONSIGNMENT": "Total Consignment",
         "TOTAL_EWAY_BILL": "Total Eway Bill",
         "USERNAME": "Username",
