@@ -1,5 +1,8 @@
 {
     "LOAD": {
+        "SHOW_MANIFEST_RATE": "Show Manifest Rate",
+        "LICENSE_MESSAGE": "Please call the number 9374311293 to obtain the license code.",
+        "CENTER_SETUP": "Center Setup",
         "TOTAL_AUDITED_AMOUNT": "Total Audited Amount",
         "NO_OF_PCS_WEIGHT_ERROR": "Please verify no of pcs weight.",
         "ALLOW_WEIGHT_INC_DEC": "Allow Audit Weight Decreased",
