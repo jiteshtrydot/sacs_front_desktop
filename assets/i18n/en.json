@@ -1,5 +1,10 @@
 {
     "LOAD": {
+        "LBH" : "LBH",
+        "GST_NO_DOT" : "GST No.",
+        "PAN_NO_DOT" : "PAN No.",
+        "CUSTOMER_CODE" : "Customer Code",
+        "CUSTOMER_NAME" : "Customer Name",
         "SHOW_MANIFEST_RATE": "Show Manifest Rate",
         "LICENSE_MESSAGE": "Please call the number 9374311293 to obtain the license code.",
         "CENTER_SETUP": "Center Setup",
@@ -12,8 +17,8 @@
         "CASH_PAID" : "Cash Paid",
         "CASH_TAX" : "Cash Tax",
         "TOTAL_CASH_BOOKING" : "Total Cash Booking",
-        "TOTAL_ACCOUNT_BOOKING" : "Total Account Booking",
-        "ACCOUNT_TAX" : "Account Tax",
+        "TOTAL_ACCOUNT_BOOKING" : "Total A/C Booking",
+        "ACCOUNT_TAX" : "A/C Tax",
         "UPI_ID": "UPI ID",
         "SENDER_RECEIVER" : "Sender / Receiver",
         "CROSSING_CALCULATION" : "Crossing Calculation",
