@@ -1,5 +1,6 @@
 {
     "LOAD": {
+        "BOOKING_SUMMARY": "Booking Summary",
         "LBH" : "LBH",
         "GST_NO_DOT" : "GST No.",
         "PAN_NO_DOT" : "PAN No.",
@@ -13,7 +14,6 @@
         "ALLOW_WEIGHT_INC_DEC": "Allow Audit Weight Decreased",
         "TODAYS_AUDITED_BOOKING": "Today's Audited Booking",
         "DAILY_COLLECTION": "Daily Collection",
-        "BOOKING_SUMMARY": "BOOKING SUMMARY",
         "CASH_PAID" : "Cash Paid",
         "CASH_TAX" : "Cash Tax",
         "TOTAL_CASH_BOOKING" : "Total Cash Booking",
