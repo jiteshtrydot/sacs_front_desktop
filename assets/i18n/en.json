@@ -1,5 +1,13 @@
 {
     "LOAD": {
+        "PRINT_RECEIPT_MESSAGE": "Do you want to print booking receipt?",
+        "YES": "Yes",
+        "PRINT_RECEPT": "Print Receipt",
+        "HUB_WISE_BOOKING_SUMMARY": "Hub Wise Booking Summary Report",
+        "SELECT_COLLECTOR_HUB": "Select Collector Hub",
+        "GROUP_NAME": "Group Name",
+        "CREATE_GROUP": "Create Group",
+        "GENERATE_INVOICE_ADMIN": "Generate Invoice by Admin",
         "DEFAULT_CENTER": "Default Center",
         "BILLING_POINT": "Billing Point",
         "MONTHLY": "Monthly",
@@ -1416,7 +1424,8 @@
         "INVALID_PHOTO": "Invalid photo uploaded.",
         "PATTERN_NOT_MATCH": "Please enter a valid value in {{field}} field.",
         "CNF_PASSWORD_NOT_MATCHED": "{{field}} is not matching with the {{field2}}.",
-        "MAXLENGTH10": "Exact 10 digit required"
+        "MAXLENGTH10": "Exact 10 digit required",
+        "DUPLICATE_ITEM_SELECTION": "Duplicate {{field}} selected."
     },
     "MESSAGE": {
         "ERROR": "Error",
