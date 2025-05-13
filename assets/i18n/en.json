@@ -1,5 +1,15 @@
 {
     "LOAD": {
+        "MISSING_BARCODE_NOTICE_MESSAGE": "Please book the consignment for the barcode(s) listed below.",
+        "MISSING_BARCODE_REQUEST": "Missing Barcode Request",
+        "MISSING_BARCODE": "Missing Barcode",
+        "INCLUDE_SERVICE_CHARGE": "Include Serivec Charge",
+        "BOOKING_DELETE": "Booking Delete",
+        "CHANGE_REVERSE_MANIFEST_HUB": "Change Reverse Manifest HUB",
+        "EDIT_REVERSE_MANIFEST": "Edit Reverse Manifest",
+        "PARTY_BOOKING_TRANSFER": "Party Booking Transfer",
+        "PARTY_MASTER": "Party Master Request",
+        "PARTY_RATES": "Party Rate Request",
         "PRINT_RECEIPT_MESSAGE": "Do you want to print booking receipt?",
         "YES": "Yes",
         "PRINT_RECEPT": "Print Receipt",
