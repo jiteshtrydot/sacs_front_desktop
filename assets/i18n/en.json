@@ -1,5 +1,9 @@
 {
     "LOAD": {
+        "PARTIAL_BILLING_FAILED": "Your some of the bill(s) can not generate.",
+        "MISSING_REVERSE_MANIFEST": "Missing Reverse Manifest",
+        "SGST_NINE_PERCENRAGE": "SGST9%",
+        "CGST_NINE_PERCENRAGE": "CGST9%",
         "MISSING_BARCODE_NOTICE_MESSAGE": "Please book the consignment for the barcode(s) listed below.",
         "MISSING_BARCODE_REQUEST": "Missing Barcode Request",
         "MISSING_BARCODE": "Missing Barcode",
