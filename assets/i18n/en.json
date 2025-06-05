@@ -1,5 +1,10 @@
 {
     "LOAD": {
+        "SACS": "SACS",
+        "CARGO_COMPANY_NAME": "SHREE ANJANI CARGO AND LOGISTICS PVT LTD",
+        "GST_AMOUNT": "GST Amount",
+        "REVERSE_MANIFEST_BILLING_SUMMARY": "Reverse Manifest Billing Summary",
+        "INVOICE_TYPE": "Invoice Type",
         "PARTIAL_BILLING_FAILED": "Your some of the bill(s) can not generate.",
         "MISSING_REVERSE_MANIFEST": "Missing Reverse Manifest",
         "SGST_NINE_PERCENRAGE": "SGST9%",
@@ -1427,7 +1432,9 @@
         "BILL_GENERATE": "Bill Generate",
         "AUTO_BILL_GENERATE": "Auto Bill Generate",
         "BILL_SUMMARY_GENERATE": "Bill Summary Generate",
-        "DIRECT_INCOMING_PACKAGING_SLIP": "Direct Incoming Packing Slip"
+        "DIRECT_INCOMING_PACKAGING_SLIP": "Direct Incoming Packing Slip",
+        "BOOKING_SUMMARY": "Booking Summary",
+        "BILLING_SUMMARY": "Billing Summary"
     },
     "VALIDATION": {
         "IS_REQUIRED": "{{field}} is required.",
