@@ -1,8 +1,17 @@
 {
     "LOAD": {
+        "UNUSED_BARCODE_DESCRIPTION": "Total {{unused_barcode}} Barcode is Not used from {{total_barcode}} barcodes.",
+        "REMAINAING_BARCODE_SUMMARY": "Remaining Barcode Summary",
+        "MISSING_SEQUENCE": "Missing Sequence",
+        "DESCRIPTION": "Description",
+        "TOTAL_BARCODE": "Total Barcode",
+        "UNUSED_BARCODES": "Unused Barcodes",
+        "UNUSED_BARCODES_DETAIL_SUMMARY":"Unused Barcodes Detail Summary",
+        "BARCODE_TYPE": "Barcode Type",
         "SACS": "SACS",
         "CARGO_COMPANY_NAME": "SHREE ANJANI CARGO AND LOGISTICS PVT LTD",
         "GST_AMOUNT": "GST Amount",
+        "BILLING_SUMMARY": "Billing Summary",
         "REVERSE_MANIFEST_BILLING_SUMMARY": "Reverse Manifest Billing Summary",
         "INVOICE_TYPE": "Invoice Type",
         "PARTIAL_BILLING_FAILED": "Your some of the bill(s) can not generate.",
@@ -62,6 +71,7 @@
         "ALLOW_WEIGHT_INC_DEC": "Allow Audit Weight Decreased",
         "TODAYS_AUDITED_BOOKING": "Today's Audited Booking",
         "DAILY_COLLECTION": "Daily Collection",
+        "REMAINING_BARCODE_SUMMARY": "Remaining Barcode Summary",
         "CASH_PAID" : "Cash Paid",
         "CASH_TAX" : "Cash Tax",
         "TOTAL_CASH_BOOKING" : "Total Cash Booking",
@@ -1282,6 +1292,7 @@
         "SYNC_DATA": "Sync Data"
     },
     "MENU": {
+        "FRANCHISE_CREDIT_LIMIT_SUMMARY" : "Franchisee Credit Limit Summary",
         "CROSSING_CALCULATION" : "Crossing Calculation",
         "CENTER" : "Center",
         "BOOKING" : "Booking",
