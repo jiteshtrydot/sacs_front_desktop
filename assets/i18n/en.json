@@ -1,5 +1,7 @@
 {
     "LOAD": {
+        "AMOUNT_IN_WORDS": "Amount In Words",
+        "COUNT": "Count",
         "DRS_RETURN_MISROUTE_DETAILS": "DRS / Return / Misroute Detail",
         "SENDER_MOBILE": "Sender Mobile Number",
         "SENDER_RECEIVER_NAME": "Sender / Receiver Name",
@@ -94,7 +96,7 @@
         "BARCODE_NO": "Barcode No.",
         "MISSING_BARCODE_SUMMARY": "Missing Barcode Summary",
         "BOOKING_SUMMARY": "Booking Summary",
-        "LBH" : "LBH",
+        "LWH" : "LWH",
         "GST_NO_DOT" : "GST No.",
         "PAN_NO_DOT" : "PAN No.",
         "CUSTOMER_CODE" : "Customer Code",
@@ -577,7 +579,7 @@
         "TO_BILL_NO": "To Bill No.",
         "GENERATE_BILL_SUMMARY": "Generate Bill Summary",
         "CALCULATED_TOTAL": "Calculated Total",
-        "BILL_SUMMARY_GENERATE": "Bill Summary Generate",
+        "ADMIN_PARTY_SUMMARY_GENERATE": "Admin Party Summary Generate",
         "BILL_PERIOD_TO": "Bill Period To",
         "BILL_PERIOD_FROM": "Bill Period From",
         "ACCOUNT_BILL_AUTO": "Account Bill Auto",
@@ -1482,7 +1484,7 @@
         "BILL_TRANSFER": "Bill Transfer",
         "BILL_GENERATE": "Bill Generate",
         "AUTO_BILL_GENERATE": "Auto Bill Generate",
-        "BILL_SUMMARY_GENERATE": "Bill Summary Generate",
+        "ADMIN_PARTY_SUMMARY_GENERATE": "Admin Party Summary Generate",
         "DIRECT_INCOMING_PACKAGING_SLIP": "Direct Incoming Packing Slip",
         "BOOKING_SUMMARY": "Booking Summary",
         "BILLING_SUMMARY": "Billing Summary"
