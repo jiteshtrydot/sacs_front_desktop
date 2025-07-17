@@ -1,5 +1,6 @@
 {
     "LOAD": {
+        "DRS_UPLOADED": "DRS Uploaded",
         "AMOUNT_IN_WORDS": "Amount In Words",
         "COUNT": "Count",
         "DRS_RETURN_MISROUTE_DETAILS": "DRS / Return / Misroute Detail",
