@@ -279,6 +279,7 @@
         "DELETE_BOOKING": "Delete Booking",
         "AUDIT_DIFFERENCES": "Audit Differences",
         "INVOICE_LIST": "Invoice List",
+        "DELETE_INVOICE": "Delete Invoice",
         "DIFFERENCES": "Differences",
         "GENERATE_INVOICE": "Generate Invoice",
         "QUANTITY": "Quantity",
@@ -886,8 +887,6 @@
         "LOAD_NO": "Load No.",
         "MODE": "Mode",
         "IN_BAG_COUNT": "In Bag Count",
-        "SYNC_DATA_INFO_HEADING": "Sync Data for selected Time",
-        "SYNC_DATA": "Sync Data",
         "ESTIMATED_TIME": "Estimated Time",
         "ESTIMATED_DATE": "Estimated Date",
         "VEHICLE_NO": "Vehicle / CD No",
@@ -1392,8 +1391,7 @@
         "ADD_NEW": "Add New",
         "ADD_ZONE": "Add Zone",
         "DELETE": "Delete",
-        "ADD_MORE": "Add more",
-        "SYNC_DATA": "Sync Data"
+        "ADD_MORE": "Add more"
     },
     "MENU": {
         "MY_REQUEST": "My Request",
@@ -1552,6 +1550,7 @@
         "BILLING_SUMMARY": "Billing Summary"
     },
     "VALIDATION": {
+        "MIN_BOOKING": "Minimum 1 booking required.",
         "IS_REQUIRED": "{{field}} is required.",
         "MAXLENGTH": "{{field}} has exceeded the maximum length.",
         "MINLENGTH": "Character length of the {{field}} is too short.",
