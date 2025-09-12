@@ -1,5 +1,6 @@
 {
     "LOAD": {
+        "UNIQUE_DOCS": "Unique Docs",
         "AUTO_GENERATED": "Auto Generated",
         "REFERENCE_BY": "Ref. By",
         "REFERENCE_PHONE": "Ref. Ph",
@@ -905,6 +906,7 @@
         "PRINT_RECEIPT": "Print Receipt",
         "SIGNATURE": "Signature",
         "DRS_NO": "DRS No.",
+        "REF_NO": "Ref. No.",
         "DELIVERY_VOUCHER": "DELIVERY VOUCHER",
         "PLEASE_CLICK_HERE": "click here to",
         "UNABLE_TO_BOOK_MSG": "You are not allowed to book any consignment until the DRS is uploaded.",

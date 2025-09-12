@@ -1,1 +1,0 @@
-import{j as e,U as s}from"./index.b6833530.js";const o=()=>e("div",{children:e(s,{position:"top-right",autoClose:5e3,hideProgressBar:!1,newestOnTop:!1,closeOnClick:!0,rtl:!1,pauseOnFocusLoss:!0,draggable:!0,pauseOnHover:!0})});export{o as default};
