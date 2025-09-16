@@ -1,5 +1,6 @@
 {
     "LOAD": {
+        "NETWORK_SETTING": "Network Setting",
         "UNIQUE_DOCS": "Unique Docs",
         "AUTO_GENERATED": "Auto Generated",
         "REFERENCE_BY": "Ref. By",
@@ -39,6 +40,11 @@
         "REPORT_GROUP": "Report Group",
         "PRINTER_NAME": "Printer Name",
         "TERM_AND_CONDITION": "Terms and Conditions",
+        "NETWORK_INSTRUCTION": "By changing the settings, your system will be restart.",
+        "NORMAL_MODE": "Normal Mode",
+        "NORMAL_MODE_SUB_TITLE": "(Not recommended – used only when having issues.)",
+        "OPTIMIZED_MODE": "Optimized Mode",
+        "OPTIMIZED_MODE_SUB_TITLE": "(V2)",
         "BILLSETTOFF_AMOUNT_WARNING_MESSAGE": "Bill Setoff Amount can not be greater than Receive Amount.",
         "ISSUE_AMOUNT": "Issue Amount",
         "GENERATE_PUBLISH_WITH_NEW_RATE": "Generate & Publish with New Rate",
@@ -1081,9 +1087,13 @@
         "RESET": "Reset",
         "NO_DATA": "No Data Found",
         "NO_DOCUMENT": "No Document",
+        "INCOMING_CMP_HEADING": "Incoming Barcode",
+        "INCOMING_CMP_MESSAGE": "You cannot add a barcode to the DRS. Kindly inward the {{field}} barcode.",
         "PARTY_APPROVAL_MESSAGE": "Are you sure you want to submit without seeing all the products?",
         "DELETE_MESSAGE": "Are you sure you want to delete {{field}} ?",
         "DELETE_CONFIRMATION": "Delete confirmation",
+        "APP_RESTART_CONFIRMATION": "App restart confirmation",
+        "APP_RESTART_MESSAGE": "Are you sure you want to save the changes and restart the application? \nYour application will close and restart automatically to apply the new settings.",
         "CENTER_POLICY": "Center Policy",
         "CONTACT_DETAILS": "Contact Details",
         "AGENCY": "Agency",
@@ -1397,6 +1407,7 @@
         "ADD_MORE": "Add more"
     },
     "MENU": {
+        "PARTY_MASTER": "Party Master",
         "MY_REQUEST": "My Request",
         "CROSSING_CALCULATION": "Crossing Calculation",
         "CENTER": "Center",
@@ -1438,6 +1449,7 @@
         "PERMISSIONS": "Permissions",
         "BRANCH_PERMISSIONS": "Center Permissions",
         "PRINT_SETTING": "Print Settings",
+        "NETWORK_SETTING": "Network Setting",
         "SCAN_PENDING_LIMIT": "Scan Pending Limit",
         "RESET_ID_PASSWORD": "Reset ID Password",
         "FRANCHISEE_PERCENTAGE_SETUP": "Franchisee Percentage Setup",
