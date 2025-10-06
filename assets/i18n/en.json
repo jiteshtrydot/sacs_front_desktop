@@ -1,6 +1,27 @@
 {
     "LOAD": {
-        "NETWORK_SETTING": "Network Setting",
+        "PENDING_PAYMENT_WARNING": "Pending Payment Warning",
+        "OTHER_COMMISSION": "Other Commision",
+        "FRANCHISEE_PERCENTAGE": "Franchisee Percnetage (%)",
+        "PERCENT_VALUE_REQUIRED": "Percentage value should not for {{field}}.",
+        "CHANGE": "Change",
+        "REVERT": "Revert",
+        "COPY_ENTRY": "Copy Entry",
+        "MIN_WEIGHT": "Min Weight",
+        "MAX_WEIGHT": "Max Weight",
+        "AUDITED_CROSSING_CHARGE": "Audited Crossing Charge",
+        "AUDITED_DOC_TYPE": "Audited Doc Type",
+        "CROSSING_HISTORY": "Crossing History",
+        "MIN_BOOKING_MESSAGE": "Please select at least one booking",
+        "INPUT_WEIGHT_IN_GMS": "Input Weight In Gms",
+        "ENTER_WEIGHT": "Enter Weight",
+        "BOOKING_WEIGHT_IS": "Booking Weight Is",
+        "API_KEY": "API Key",
+        "WHATSBOT_SETTING": "Whatsbot Settings",
+        "WHATSAPP_API_KEY": "Whatsapp API Key", 
+        "REPORT_FOR": "Report For",
+        "LEDGER_REPORT": "Ledger Report",
+        "NETWORK_SETTING": "Network Settings",
         "UNIQUE_DOCS": "Unique Docs",
         "AUTO_GENERATED": "Auto Generated",
         "REFERENCE_BY": "Ref. By",
@@ -1087,6 +1108,8 @@
         "RESET": "Reset",
         "NO_DATA": "No Data Found",
         "NO_DOCUMENT": "No Document",
+        "LAST_MANIFAX_BARCODE": "(Last manifax number is {{field}})",
+        "LAST_FRANCHISEE_BILL_NO": "(Last franchisee bill number is {{field}})",
         "INCOMING_CMP_HEADING": "Incoming Barcode",
         "INCOMING_CMP_MESSAGE": "You cannot add a barcode to the DRS. Kindly inward the {{field}} barcode.",
         "PARTY_APPROVAL_MESSAGE": "Are you sure you want to submit without seeing all the products?",
@@ -1191,6 +1214,7 @@
         "SGST": "SGST",
         "IGST": "IGST",
         "TOTAL_TAX": "Total tax",
+        "TOTAL_BILL_AMOUNT": "Total Bill Amount",
         "SUB_TOTAL": "Sub Total",
         "NET_AMOUNT": "Net amount",
         "SELECT_PRODUCT": "Select Product",
@@ -1407,6 +1431,7 @@
         "ADD_MORE": "Add more"
     },
     "MENU": {
+        "WHATSBOT_SETTING": "Whatsbot Settings",
         "PARTY_MASTER": "Party Master",
         "MY_REQUEST": "My Request",
         "CROSSING_CALCULATION": "Crossing Calculation",
@@ -1449,7 +1474,7 @@
         "PERMISSIONS": "Permissions",
         "BRANCH_PERMISSIONS": "Center Permissions",
         "PRINT_SETTING": "Print Settings",
-        "NETWORK_SETTING": "Network Setting",
+        "NETWORK_SETTING": "Network Settings",
         "SCAN_PENDING_LIMIT": "Scan Pending Limit",
         "RESET_ID_PASSWORD": "Reset ID Password",
         "FRANCHISEE_PERCENTAGE_SETUP": "Franchisee Percentage Setup",
@@ -1586,6 +1611,8 @@
         "UNABLE_TO_CONNECT": "Unable to connect with server."
     },
     "ERROR": {
-        "CENTER_NOT_AVAILABLE": "There are no center for this hub please select different one"
+        "CENTER_NOT_AVAILABLE": "There are no center for this hub please select different one",
+        "SELECT_FROM_CENTER": "Please select from center",
+        "SELECT_ATLEAST": "Please select at least one {{field}}"
     }
 }
