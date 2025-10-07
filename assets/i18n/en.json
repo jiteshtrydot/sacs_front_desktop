@@ -1,5 +1,7 @@
 {
     "LOAD": {
+        "VIEW_BILLING_HISTORY": "View Billing History",
+        "ADMIN_PARTY_BILLS": "Admin Party Bills",
         "PENDING_PAYMENT_WARNING": "Pending Payment Warning",
         "OTHER_COMMISSION": "Other Commision",
         "FRANCHISEE_PERCENTAGE": "Franchisee Percnetage (%)",
@@ -141,8 +143,6 @@
         "INVOICE_TYPE": "Invoice Type",
         "PARTIAL_BILLING_FAILED": "Your some of the bill(s) can not generate.",
         "MISSING_REVERSE_MANIFEST": "Missing Reverse Manifest",
-        "SGST_NINE_PERCENRAGE": "SGST9%",
-        "CGST_NINE_PERCENRAGE": "CGST9%",
         "MISSING_BARCODE_NOTICE_MESSAGE": "Please book the consignment for the barcode(s) listed below.",
         "MISSING_BARCODE_REQUEST": "Missing Barcode Request",
         "MISSING_BARCODE": "Missing Barcode",
@@ -790,6 +790,8 @@
         "REMOVE_OLD_ENTRY": "Remove Old Entry",
         "ASSIGN_PARTY_ENTRY": "Assign Party Entry",
         "VIEW_BILL_OLD_ENTRY": "View Bill Old Entry",
+        "CREATE_BILL_ENTRY": "Create Bill Entry",
+        "DELETE_BILL_OLD_ENTRY": "Delete Old Bill Entry",
         "PRINT_ENTRY": "Print Entry",
         "EMAIL_ENTRY": "Emali Entry",
         "OPEN_TIME": "Open Time",
@@ -1108,6 +1110,7 @@
         "RESET": "Reset",
         "NO_DATA": "No Data Found",
         "NO_DOCUMENT": "No Document",
+        "LAST_ADMIN_PARTY_BILL": "(Last bill number is {{field}})",
         "LAST_MANIFAX_BARCODE": "(Last manifax number is {{field}})",
         "LAST_FRANCHISEE_BILL_NO": "(Last franchisee bill number is {{field}})",
         "INCOMING_CMP_HEADING": "Incoming Barcode",
